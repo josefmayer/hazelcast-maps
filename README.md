@@ -23,8 +23,8 @@ Persistence <br />
 ### Steps
 ##### Multi-map
 *mvn clean compile package* <br />
-java -cp target/lib/*:target/classes PutMember
-java -cp target/lib/*:target/classes PrintMember
+java -cp target/lib/*:target/classes PutMember <br />
+java -cp target/lib/*:target/classes PrintMember <br />
 
 
 ##### Aggregations
